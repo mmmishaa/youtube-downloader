@@ -1,5 +1,3 @@
-import msvcrt
-
 def make_format_selector(video_id, audio_id):
 
     def format_selector(ctx):
